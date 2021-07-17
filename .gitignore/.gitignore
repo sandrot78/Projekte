@@ -1,0 +1,13 @@
+.idea
+
+__pychace__/
+*.py[cod]
+*$py.class
+
+*.so
+
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
